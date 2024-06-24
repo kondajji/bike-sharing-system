@@ -75,7 +75,7 @@ The dataset contains bike sharing data of 2018 and 2019 for Boombikes
 
 ### Model comparison
 
-![Model Comparisions](mage.png)
+![Model Comparisions](image.png)
 
 #### <b>stats_model5</b> is the better model among 4 models as it explains 82% of variance with test data (stable when compared to training data), all coefficients are significant and very less or no collinearity between features. MSE is lesser than model built using standard scaler hence this was chosen
 
