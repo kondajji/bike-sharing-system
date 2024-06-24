@@ -34,24 +34,8 @@ Objective of this assignment is to understand the business problem and build lin
 ## Data Understanding
 The dataset contains bike sharing data of 2018 and 2019 for Boombikes
 
-## Approach
-1. **Data Loading and Cleaning**: Load the dataset, handle missing values, and clean the data.
-2. **Exploratory Data Analysis (EDA)**: Perform univariate and bivariate analysis to understand the relationship between various features and target variable.
-3. **Insights and Observations**: Summarize insights and observations from the analysis.
 
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-
-### Goal
-#### Key Driving factors/variables to determine if loan gets default are:
-- Annual Income
-- Loan Amount
-- Interest Rate
-- Loan Purpose
-- Employment Duration
-- Loan/Credit Grade
+## Approach & Conclusions
 
 ### Exploratory Data Analysis - Learning Data
 
@@ -90,8 +74,8 @@ The dataset contains bike sharing data of 2018 and 2019 for Boombikes
   - No Relation between Residuals
 
 ### Model comparison
-![image.png](attachment:image.png)
 
+![Model Comparisions](mage.png)
 
 #### <b>stats_model5</b> is the better model among 4 models as it explains 82% of variance with test data (stable when compared to training data), all coefficients are significant and very less or no collinearity between features. MSE is lesser than model built using standard scaler hence this was chosen
 
