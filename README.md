@@ -1,6 +1,6 @@
 # Project Name - Bike Sharing Linear Regression Model
 
-This repository contains the code and presentation for a Bike Sharing Linear Regression Model. Repository contains building models with various techniques.
+This repository contains the code & subjective question and answer for a Bike Sharing Linear Regression Model assignment. 
 
 ## Problem Statement
 
